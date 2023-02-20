@@ -6,7 +6,7 @@
 		"layer": "4.4"
 	},
 	"domain": "enterprise-attack",
-	"description": "All techniques that are in scope for the APT3 Emulation round (Round 1)",
+	"description": "Identificacon de Tacticas, Tecnicas y Procedimientos",
 	"filters": {
 		"platforms": [
 			"Windows"
@@ -60,7 +60,7 @@
 			"techniqueID": "T1110",
 			"tactic": "credential-access",
 			"score": 1,
-			"color": "#a1d99b",
+			"color": "#445c9e",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -181,7 +181,7 @@
 			"techniqueID": "T1022",
 			"tactic": "exfiltration",
 			"score": 1,
-			"color": "#a1d99b",
+			"color": "#445c9e",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
@@ -346,7 +346,7 @@
 			"techniqueID": "T1076",
 			"tactic": "lateral-movement",
 			"score": 1,
-			"color": "#a1d99b",
+			"color": "#445c9e",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
